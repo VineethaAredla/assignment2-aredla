@@ -14,4 +14,15 @@ Mark down
 3. Take subway to osmania university
 4. Then take the walk to salar jung museum
 
+<h2>List of other locations around the museum</h2>
+
+* Bongiri port
+* Srirangapur  temple
+* Srisailam temple
+* Surendrapuri
+* Yadigirigutta temple
+* Ananthagiri hills
+* Medak fort
+
+
 
