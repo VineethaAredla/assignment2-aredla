@@ -8,10 +8,10 @@ Mark down
 
 <h2>Airports near to museum</h2>
 <p>Airport near to museum is hyderabad airport and directions to it are</p>
-<ol>
-<li>Take bus to AC guards</li>
-<li>Take walk to Lakadi-ka-pul</li>
-<li>Take subway to osmania university</li>
-<li>Then take the walk to salar jung museum</li>
-</ol>
+
+1. Take bus to AC guards
+2. Take walk to Lakadi-ka-pul
+3. Take subway to osmania university
+4. Then take the walk to salar jung museum
+
 
