@@ -26,4 +26,16 @@ Mark down
 
 **[About Me](AboutMe.md)**
 
+---
+
+<h2>Four cities which you must visit in USA</h2>
+<p>This table says about the city in three coloumns.The first column describes about the name of a city.
+The second column describes about the important location to visit in the city. The third column
+describes about the the amount of time to spend visiting the important location</p>
+|<h2>Name of city</h2>|<h2>Important location in the city</h2>|<h2>Amount of time to spend at location</h2>|
+| --- | --- | ---: |
+|Chicago|Architecture river cruise|1 hour|
+|New Orlean|Jakson square|3 hours|
+|Seattle|Pike place market|2 hours|
+|San Diego|Beach|3 hours|
 
