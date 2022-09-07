@@ -125,3 +125,4 @@ function time2seconds($time) {
 
 ```
 
+[for details](https://css-tricks.com/snippets/php/english-time-to-seconds/)
