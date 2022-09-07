@@ -39,3 +39,10 @@ describes about the the amount of time to spend visiting the important location<
 |Seattle         |Pike place market             |2 hours|
 |San Diego       |Beach                         |3 hours|
 
+---
+<h2>Quotes by famous pesonalities</h2>
+>When the going gets tough the tough gets going
+by * Joe Kennedy*
+>Strive not to be sucess,but rather to be of value
+by *Albert Einstien*
+
